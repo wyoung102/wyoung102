@@ -14,7 +14,7 @@
     - 원격 저장소 설정을 마무리하고 push하고 끝!
 
 3. 프로필 확인 : https://github.com/username
-
+---
 ### one's present job
 `AI Backend Trainee`
 
