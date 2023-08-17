@@ -8,7 +8,7 @@
 
 1. 프로젝트 시작 
     - 바탕화면에 폴더 생성(ex. GitProfile)
-    - `README.md` 파일이 반드시 필요
+    - `README.md` 파일이 반드시 필요!
     
 2. GitHub
     - 원격저장소 이름은 **반드시 `username`으로!**
