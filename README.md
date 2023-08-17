@@ -5,7 +5,7 @@
 ## The process of creating a profile
 
 1. 프로젝트 시작 
-    - 바탕화면에 폴더 생성
+    - 바탕화면에 폴더 생성(ex. GitProfile)
     - `README.md` 파일이 반드시 필요
     
 2. GitHub
