@@ -1,6 +1,8 @@
-# Git/GitHub 활용 실습
+# Welcome My GitHub
+- Name : WonYoung
+- Major : Electronic Systems Engineering
 
-## 프로젝트 - 프로필
+## The process of creating a profile
 
 1. 프로젝트 시작 
     - 바탕화면에 폴더 생성
@@ -12,7 +14,7 @@
     - 원격 저장소 설정을 마무리하고 push하고 끝!
 
 3. 프로필 확인 : https://github.com/username
-4. 실습 완료 후 체크 시트에 링크 업데이트
-5. 구글에 GitHub Profile Readme라고 검색해보면 다양하게 꾸미고, 설정할수있는 방법이있다.
 
+### one's present job
+`AI Backend Trainee`
 
